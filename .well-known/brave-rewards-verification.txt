@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: dhivijit.github.io
+Token: a3a9b73953c586e764782da5ad4fb74ab1fd59a3ea4178546187d59848a01d1f
