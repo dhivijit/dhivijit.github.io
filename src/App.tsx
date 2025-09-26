@@ -31,7 +31,7 @@ function App() {
 
       <h1>Dhivijit Koppuravuri</h1>
       <h2>Cyber Security Enthusiast</h2>
-      <p>Final year student at Amrita Vishwa Vidyapeetham</p>
+      <p>B.Tech. Cyber Security Student at Amrita Vishwa Vidyapeetham</p>
 
     </div>
   );
